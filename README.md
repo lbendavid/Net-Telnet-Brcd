@@ -1,6 +1,8 @@
 Net-Telnet-Brcd version 0.01
 ============================
 
+Extract from [PAUSE repository](https://metacpan.org/pod/Net::Brcd)
+
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
 example C compilers and installed libraries) and any other information
